@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Giriş &lsaquo; Deneme &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://mehmetbaskir.github.io/deneme/wp-includes/css/dashicons.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='/https://mehmetbaskir.github.io/deneme/wp-includes/css/buttons.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='/https://mehmetbaskir.github.io/deneme/wp-admin/css/forms.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='/https://mehmetbaskir.github.io/deneme/wp-admin/css/l10n.min.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='/https://mehmetbaskir.github.io/deneme/wp-admin/css/login.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost/https:/mehmetbaskir.github.io/deneme/wp-includes/css/dashicons.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://localhost/https:/mehmetbaskir.github.io/deneme/wp-includes/css/buttons.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://localhost/https:/mehmetbaskir.github.io/deneme/wp-admin/css/forms.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://localhost/https:/mehmetbaskir.github.io/deneme/wp-admin/css/l10n.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://localhost/https:/mehmetbaskir.github.io/deneme/wp-admin/css/login.min.css?ver=5.2.2' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -22,7 +22,7 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/">WordPress'in desteğiyle</a></h1>
 	
-	<form name="loginform" id="loginform" action="/https://mehmetbaskir.github.io/deneme/wp-login.php" method="post">
+	<form name="loginform" id="loginform" action="http://localhost/https:/mehmetbaskir.github.io/deneme/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Kullanıcı adı ya da e-posta adresi<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" /></label>
@@ -40,7 +40,7 @@
 	</form>
 
 			<p id="nav">
-					<a href="/https://mehmetbaskir.github.io/deneme/wp-login.php?action=lostpassword">Parolanızı mı unuttunuz?</a>
+					<a href="http://localhost/https:/mehmetbaskir.github.io/deneme/wp-login.php?action=lostpassword">Parolanızı mı unuttunuz?</a>
 				</p>
 	
 	<script type="text/javascript">
@@ -57,7 +57,7 @@
 			if(typeof wpOnload=='function')wpOnload();
 			</script>
 
-			<p id="backtoblog"><a href="/https://mehmetbaskir.github.io/deneme/">
+			<p id="backtoblog"><a href="http://localhost/https:/mehmetbaskir.github.io/deneme/">
 		&larr; Deneme sitesine geri dön	</a></p>
 			
 	</div>
